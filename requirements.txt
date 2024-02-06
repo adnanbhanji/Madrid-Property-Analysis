@@ -5,3 +5,5 @@ seaborn
 openpyxl
 # sklearn
 scikit-learn
+catboost
+xgboost
